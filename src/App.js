@@ -11,6 +11,9 @@ function App() {
           React world,  updates reflect inside docker container !!!!
           yes i did it
         </p>
+        <p> 
+          Deployed into AWS Beans Talk :-) :-)
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
