@@ -12,6 +12,9 @@ function App() {
           yes i did it
         </p>
         <p> 
+          Worked on UBUNTU !!!!
+        </p>
+        <p> 
           Deployed into AWS Beans Talk :-) :-)
         </p>
         <a
